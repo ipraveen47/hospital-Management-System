@@ -1,0 +1,1 @@
+This is a simple JDBC project , that It has three tables patients, doctors and appointments , where use can book appointments , attendent can view all the doctors and patients and their appointments. 
